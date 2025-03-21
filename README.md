@@ -44,7 +44,7 @@ MIT License. Free for academic and commercial use.
 ---
 
 **Resources**  
-- [User Guide (中文)](./UserGuide_CN.pdf)  
+- [User Guide (中文)](./UserGuide_CN.doc)  
 - [Sample Dataset](./example_images/)  
 
 *Empowering efficient and intuitive quantitative analysis of microstructures!* 🔬📊
